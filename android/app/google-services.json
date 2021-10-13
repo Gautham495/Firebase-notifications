@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824310826751",
+    "project_id": "fir-maps-a3561",
+    "storage_bucket": "fir-maps-a3561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824310826751:android:2233c9f42e984e19b36eca",
+        "android_client_info": {
+          "package_name": "com.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824310826751-jr8uvnv24qtlfgv307fmo419s6d4ccu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4xAdpFM8Gpbp9aezIMnpNjD1DLh0sVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824310826751-jr8uvnv24qtlfgv307fmo419s6d4ccu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
