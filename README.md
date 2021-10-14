@@ -1,4 +1,4 @@
-# Firebase-notfications
+# Firebase-notifications
 
 Installation steps for Firebase Notifications React Native Project.
 
